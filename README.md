@@ -15,8 +15,9 @@ Print the minimum quantity of banknotes and coins necessary to change the initia
 
 Input Sample	                    Output Sample
 
+576.73
 
-576.73                            NOTAS:
+                                  NOTAS:
 
                                   5 nota(s) de R$ 100.00
                                    
