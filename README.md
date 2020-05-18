@@ -13,7 +13,7 @@ Output
 
 Print the minimum quantity of banknotes and coins necessary to change the initial value, as the given example.
 
-Input Sample	                    Output Sample
+Input Sample......................Output Sample
 
     576.73                        NOTAS:
                                   5 nota(s) de R$ 100.00                                   
